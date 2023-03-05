@@ -1,3 +1,3 @@
-TÜRKÇE: 75Kod'un kendi kalbi, hack club tarafından yapıldı.
+TÜRKÇE: ISTHackers'ın kendi kalbi, hack club tarafından yapıldı.
 
-ENGLISH: 75Kod's heart itself, made by hack club.
+ENGLISH: ISTHackers's heart itself, made by hack club.
